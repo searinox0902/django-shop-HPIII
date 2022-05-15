@@ -1,0 +1,16 @@
+Entorno virtual:
+
+python -m venv django-shop-HPIII
+
+activate.bat
+
+deactivate.bat
+
+------------------------------
+
+en el entorno virtual instalamos 
+
+	-- pysicogp2 
+
+	pip install pysicopg2
+	
